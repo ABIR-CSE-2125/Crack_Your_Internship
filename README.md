@@ -1,2 +1,2 @@
-# Crack_Your_Intership
+# Crack_Your_Internship
 Leetcode problems repo.
